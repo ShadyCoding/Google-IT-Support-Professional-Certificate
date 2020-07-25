@@ -10,5 +10,6 @@ Through this Professional Certificate program you'll have access to a variety of
 
 Examples of virtual assessments include Assembling a Computer, Networking simulation, Writing Effective Support Documentation, Routing Paths and Subnets, Wireless Networking, Device Software Management, Public Key or Asymmetric Encryption, Incident Handling, among many other hands-on learning application.
 
+## Verify my Specialization Certificate Courses
 1-[Technical-Support-Fundamentals](https://www.coursera.org/account/accomplishments/records/DQ74P58R6RNH)<br>
 2-[The-Bits-and-Bytes-of-Computer-Networking](https://www.coursera.org/account/accomplishments/records/KPL8FYZ6YT5C)
